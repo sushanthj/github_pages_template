@@ -8,7 +8,7 @@ permalink: /
 
 # Intro
 
-![](/images/logos/random_image.jpg)
+![](./images/logos/random_image.jpg)
 
 
 ## Example Youtube Video
