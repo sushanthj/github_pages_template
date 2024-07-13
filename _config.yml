@@ -2,8 +2,8 @@ title: Unity Sim
 description: Robotics Game in Unity
 theme: just-the-docs
 
-url: https://sushanthj.github.io
-baseurl: /unity
+url: https://sushanthj.github.io/unity
+# baseurl: /unity
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
