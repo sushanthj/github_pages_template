@@ -6,7 +6,7 @@ To replicate this template do the following:
 1. Create a new repository on github
 2. Clone it locally
 3. Download a zip-file of this repo and move all contents to your new repository
-4. In the _config.yaml change the ```url: https://sushanthj.github.io/unity``` to  ```url: https://sushanthj.github.io/<NEW_REPO_NAME>```
+4. (SKIP THIS STEP) In the _config.yaml change the ```url: https://sushanthj.github.io/unity``` to  ```url: https://sushanthj.github.io/<NEW_REPO_NAME>```
 5. Push the changes (```git push```)
 6. Then go to the repository settings on Github and set Github Pages Build option to ```Github Actions```
 7. NOTE: Don't choose any 'Jekyll' action if prompted
